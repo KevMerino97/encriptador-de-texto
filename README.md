@@ -53,7 +53,7 @@ gaitober" => "gato"
 
 ### Extras del proyecto:
 
-- Un botón que copiará el texto encriptado/desencriptado que permitirá insertar el texto en el cuadro de texto de entrada el programa, como si hicieramos Ctrl+C
+- Un botón que copiará el texto encriptado/desencriptado que permitirá insertar el texto en el cuadro de texto de entrada de la página, como si hicieramos Ctrl+C
 
 ---
 
