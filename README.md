@@ -26,7 +26,7 @@ El desafío consiste en la creación de una pagina web que encripte y desencript
 
 ## 🔑 Llaves de encriptación
 
-Las llaves de encriptacion utilizadas son las siguientes:
+Las llaves de encriptación utilizadas son las siguientes:
 
 - La letra "**a**" es convertida a "**ai**".
 - La letra "**e**" es convertida a "**enter**".
